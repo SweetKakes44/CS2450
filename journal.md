@@ -3,3 +3,6 @@ JOURNAL CS-2450 Natahlya Kuhlmann
 
 Date: 1/22/2026
 Today, I set up my git repository and joined my team repository. I was struggling with SSH keys for a bit, but I figured it out eventually. Then, I was struggling with getting the youface website to work with the "python3 youface.py" command, but I asked Ren (he was the substitute) and he helped me with it.
+
+Date: 1/29/2026
+In class we brainstormed ideas for our YouFace social media platform. We wrote all our ideas on sticky notes and then grouped them into app ideas and feature ideas. We came up with some fun ideas like a bipolar social media site that changes the toxicity of the posts you see based on if the app is in light or dark mode. XD There was also an idea for a platform to share art and no AI is allowed.
