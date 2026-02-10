@@ -6,3 +6,6 @@ Today, I set up my git repository and joined my team repository. I was strugglin
 
 Date: 1/29/2026
 In class we brainstormed ideas for our YouFace social media platform. We wrote all our ideas on sticky notes and then grouped them into app ideas and feature ideas. We came up with some fun ideas like a bipolar social media site that changes the toxicity of the posts you see based on if the app is in light or dark mode. XD There was also an idea for a platform to share art and no AI is allowed.
+
+Date: 2/10/2026
+Last week we did User Issues and made issues for our social media platform.
