@@ -9,3 +9,6 @@ In class we brainstormed ideas for our YouFace social media platform. We wrote a
 
 Date: 2/10/2026
 Last week we did User Stories and added Issues to github for our social media platform. We also edited our requirements documentation a little bit.
+
+Date: 2/12/2026
+We learned how to make a new branch in git and how to push that and merge it with the main branch. We also learned how to deal with conflicting merges which is helpful since there are multiple of us working on the same files. Jeff taught us how to make good flow charts and showed us a good resource to make them in. Using draw.io makes creating flow diagrams easy. I made a flow diagram for following another user for my group's social media platform, Souly.
