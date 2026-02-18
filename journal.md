@@ -12,3 +12,6 @@ Last week we did User Stories and added Issues to github for our social media pl
 
 Date: 2/12/2026
 We learned how to make a new branch in git and how to push that and merge it with the main branch. We also learned how to deal with conflicting merges which is helpful since there are multiple of us working on the same files. Jeff taught us how to make good flow charts and showed us a good resource to make them in. Using draw.io makes creating flow diagrams easy. I made a flow diagram for following another user for my group's social media platform, Souly.
+
+Date: 2/18/2026
+Yesterday, we learned how to make good presentations. Colors and the use of italics/bold/font sizes in your presentation is important to get the listeners eyes to go where you want them to. My group got talked and picked which slide we are going to work on. I think tomorrow in class, we are going to finish working on our presentations with our groups.
