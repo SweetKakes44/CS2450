@@ -15,3 +15,8 @@ We learned how to make a new branch in git and how to push that and merge it wit
 
 Date: 2/18/2026
 Yesterday, we learned how to make good presentations. Colors and the use of italics/bold/font sizes in your presentation is important to get the listeners eyes to go where you want them to. My group got talked and picked which slide we are going to work on. I think tomorrow in class, we are going to finish working on our presentations with our groups.
+
+Date: 2/24/2026
+My group (CS Gang) met up last Saturday to go over our presentation for Souly and finish it up. We did our presentation today and it went well. We are going to listen to more presentations on Thursday. The other groups have a lot of cool ideas, too!
+
+
