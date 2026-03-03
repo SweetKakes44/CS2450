@@ -19,4 +19,5 @@ Yesterday, we learned how to make good presentations. Colors and the use of ital
 Date: 2/24/2026
 My group (CS Gang) met up last Saturday to go over our presentation for Souly and finish it up. We did our presentation today and it went well. We are going to listen to more presentations on Thursday. The other groups have a lot of cool ideas, too!
 
-
+Date: 3/3/2026
+Today, I went in and organized all the user stories since there were so many of them that had overlap or repeats. I made it easier to read in the project using issue names like "CSS" and "Profile". That way we can be more organized going forward and it will be easier and more accurate keeping track of our progress with our social media site.
