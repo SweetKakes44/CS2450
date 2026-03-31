@@ -21,3 +21,8 @@ My group (CS Gang) met up last Saturday to go over our presentation for Souly an
 
 Date: 3/3/2026
 Today, I went in and organized all the user stories since there were so many of them that had overlap or repeats. I made it easier to read in the project using issue names like "CSS" and "Profile". That way we can be more organized going forward and it will be easier and more accurate keeping track of our progress with our social media site.
+
+Date 3/31/2026
+In class, we talked about refactoring code. I've been working on getting the profile page set up for the Souly social media project my group is working on.
+
+
