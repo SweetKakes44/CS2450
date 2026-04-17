@@ -19,6 +19,9 @@ Yesterday, we learned how to make good presentations. Colors and the use of ital
 Date: 2/24/2026
 My group (CS Gang) met up last Saturday to go over our presentation for Souly and finish it up. We did our presentation today and it went well. We are going to listen to more presentations on Thursday. The other groups have a lot of cool ideas, too!
 
+Date: 2/31/2026
+In class, we talked about refactoring code. I've been working on getting the profile page set up for the Souly social media project my group is working on.
+
 Date: 3/3/2026
 Today, I went in and organized all the user stories since there were so many of them that had overlap or repeats. I made it easier to read in the project using issue names like "CSS" and "Profile". That way we can be more organized going forward and it will be easier and more accurate keeping track of our progress with our social media site.
 
@@ -33,6 +36,8 @@ Good Coding Principles:
 4. single purpose (short functions that do one thing well)
 5. easy to test (clear inputs and outputs, good function parameters)
 
-Date: 3/31/2026
-Last week, I set up selenium so I can test stuff in the Souly social media project my group is working on. In class, we talked about refactoring code. I've been working on getting the profile page set up for the Souly project.
+Date: 3/31/2026 Last week, I set up selenium so I can test stuff in the Souly social media project my group is working on. In class, we talked about refactoring code. I've been working on getting the profile page set up for the Souly project.
+
+Date: 4/16/2026
+I think I forgot to push my changes and I might have lost some journal entries cuz I had a swp file and I swear I had at least one entry for April already, but oh well. My team got together today to work on our Souly project even though Jeff was out of town so we didn't have official class. It was good to regroup and work on things. I got tags working on the posts and the interest tags added to the bio, so that's awesome! Our project is not perfect, but it's decent and I'm proud of it. We're still gonna touch up some stuff and get together on Saturday, but I think it's gonna be good. :D
 
